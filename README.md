@@ -8,7 +8,7 @@
 -	pom.xml
 -	src/test/java/com/hellofresh/challenge/pages : list of all UI elements used for testing and all actions to be done.
 -	src/test/java/com/hellofresh/challenge/stepdefinitions : consist of classes that can be used to map the story (scenario) in feature file with actions.
--	src/test/java/com/hellofresh/challenge/TestsRunner.java : Test runner
+-	src/test/java/com/hellofresh/challenge/TestRunner.java : Test runner
 -	src/test/resources/chromedriver
 -	src/test/resources/features : cucumber feature files
 
